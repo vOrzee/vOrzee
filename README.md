@@ -7,20 +7,21 @@
   <tr style="border:none">
     <td><img src="https://i.imgur.com/K9cEsVC.jpg" float="left"></td> 
     <td> 
+    
+<p><i> Age: 29. <a href="https://vk.com/vorzee"> VK Profile </a></i>
+      <br>From: Orsk, Orenburg region, Russia.</p> 
 
-## Изучаю направления
+## Developing in the area
 
-<h4><i>Направление 1:</i> <b>Android-разработчик</b><br></h4>
-<h4><i>Направление 2:</i> <b>SQL и получение данных </b><br></h4></td>
+
+<h4><i>Track 1:</i> <b>Android-developer</b><br></h4>
+<h4><i>Track 2:</i> <b>SQL and data receiving</b><br></h4></td>
     </td></tr></table>
     
 [![codewars](https://www.codewars.com/users/vOrzee/badges/small?theme=light)](https://www.codewars.com/users/vOrzee)
     
-<p><i> Возраст: 29 лет.<br> Город: Орск.</i><br>
-      <b>vk:</b> <a href="https://vk.com/vorzee"> Профиль </a></p> 
-<hr>
 
-<h1>Языки программирования</h1>
+## Языки программирования
 
 <span>
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQt8THUY68Kl9SCBoEVyBKidgbqQbO2-wQmMRn7FB-NPpYOTZqZEuUZj4Rmqt_3JJlRAUc&usqp=CAU" width="80"> 
@@ -29,7 +30,7 @@
   <img src="https://learn.filtered.com/hs-fs/hubfs/Course_Icons/Black-and-White/Black-and-White-VBA.png?width=300&name=Black-and-White-Excel-.png" width="80">   
 </span>
 
-<h1> Освоенные инструменты</h1>
+## Освоенные инструменты
 
 <span>
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTITnKOzHwXy0zke2SVWlrRdTTM84zxZ_ZwvVTFkucW_0myiobOg_TAddi6Ptoo1JeS9js&usqp=CAU" width="80">
@@ -38,9 +39,9 @@
   <img src="https://u.netology.ngcdn.ru/backend/uploads/page_assets/images/file/1741/IDEA.png" width="80">
 </span>
 
-<hr>
 
-<h1> GitHub Trophy </h1>
+
+## GitHub Trophy
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark&no-bg=true&no-frame=true&rank=-C,-B&row=1&column=-1)
 <!--
