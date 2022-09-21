@@ -25,7 +25,7 @@
 
 <span>
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQt8THUY68Kl9SCBoEVyBKidgbqQbO2-wQmMRn7FB-NPpYOTZqZEuUZj4Rmqt_3JJlRAUc&usqp=CAU" width="80"> 
-  <img src="https://u.netology.ngcdn.ru/backend/uploads/page_assets/images/file/519/Java.svg" width="80"> 
+  <img src="https://camo.githubusercontent.com/659c4605c415197337f03c49d6206f3186c132cb5266e90ded12b83d294511ea/68747470733a2f2f6272616e646c6f676f732e6e65742f77702d636f6e74656e742f75706c6f6164732f323032312f31312f6a6176612d6c6f676f2e706e67" width="80"> 
   <img src="https://u.netology.ngcdn.ru/backend/uploads/page_assets/images/file/657/sql.svg" width="80"> 
   <img src="https://learn.filtered.com/hs-fs/hubfs/Course_Icons/Black-and-White/Black-and-White-VBA.png?width=300&name=Black-and-White-Excel-.png" width="80">   
 </span>
