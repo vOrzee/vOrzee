@@ -14,9 +14,10 @@
 ## Developing in the area
 
 
-<h4><i>Track 1:</i> <b>Android-developer</b><br></h4>
-<h4><i>Track 2:</i> <b>SQL and data receiving</b><br></h4></td>
-    </td></tr></table>
+- _Android-developer_
+- _SQL and data receiving_
+</td>
+    </tr></table>
     
 [![codewars](https://www.codewars.com/users/vOrzee/badges/small?theme=light)](https://www.codewars.com/users/vOrzee)
     
