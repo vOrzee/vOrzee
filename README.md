@@ -2,7 +2,7 @@
 
 
 <h5 align="left"><i>I'm evolve in the field of mobile application development and not only</i></h5>
-<hr>
+
 <table border-color="1px solid white">
   <tr style="border:none">
     <td><img src="https://i.imgur.com/K9cEsVC.jpg" float="left"></td> 
