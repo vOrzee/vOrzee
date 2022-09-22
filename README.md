@@ -22,7 +22,7 @@
 [![codewars](https://www.codewars.com/users/vOrzee/badges/small?theme=light)](https://www.codewars.com/users/vOrzee)
     
 
-## Языки программирования
+## Programming languages
 
 <span>
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQt8THUY68Kl9SCBoEVyBKidgbqQbO2-wQmMRn7FB-NPpYOTZqZEuUZj4Rmqt_3JJlRAUc&usqp=CAU" width="80"> 
@@ -31,7 +31,7 @@
   <img src="https://learn.filtered.com/hs-fs/hubfs/Course_Icons/Black-and-White/Black-and-White-VBA.png?width=300&name=Black-and-White-Excel-.png" width="80">   
 </span>
 
-## Освоенные инструменты
+## Programming tools
 
 <span>
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTITnKOzHwXy0zke2SVWlrRdTTM84zxZ_ZwvVTFkucW_0myiobOg_TAddi6Ptoo1JeS9js&usqp=CAU" width="80">
