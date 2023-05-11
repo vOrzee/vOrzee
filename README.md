@@ -14,7 +14,7 @@ Room, Retrofit, Hilt, Glide, ImagePicker, Paging 3, Kotlin, Java, Android Studio
 
 [Мини-проект «Markers»](https://github.com/vOrzee/Markers): приложение позволяющее сохранять список мест на карте (Yandex-map)
 
-[Создание собственных View, работа с анимацией] (https://github.com/vOrzee/CustomViews)
+[Создание собственных View](https://github.com/vOrzee/CustomViews): работа с анимацией
 
 [Учебный проект «NMedia»](https://github.com/vOrzee/NMedia): приложение с функциями социальной сети (включая аутентификацию и push-уведомления)
 
