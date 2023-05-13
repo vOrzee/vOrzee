@@ -10,6 +10,8 @@ Room, Retrofit, Hilt, Glide, ImagePicker, Paging 3, Kotlin, Java, Android Studio
 
 [Дипломный проект «NeWork»](https://github.com/vOrzee/NeWork): приложение с функциями социальной сети, CRUD операции для постов, событий и работ, регистрация и авторизация, просмотр графических вложений, воспроизведение мультимедиа вложений.
 
+[Тестовое задание от компании Wildberries](https://github.com/vOrzee/WildberriesTest): мобильное приложение “Пора в путешествие” с двумя экранами
+
 [Мини-проект «Single Album»](https://github.com/vOrzee/SingleAlbum): приложение, воспроизводящее альбом треков по ссылке
 
 [Мини-проект «Markers»](https://github.com/vOrzee/Markers): приложение позволяющее сохранять список мест на карте (Yandex-map)
